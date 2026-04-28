@@ -5,7 +5,6 @@ Excel case study analyzing net revenue growth, product contribution, and forecas
 ## 1) Project Overview
 
 This project analyzes company revenue performance using Microsoft Excel. 
-
 The goal was to evaluate revenue growth, product contribution, and forecast net sales.
 
 ## 2) Tools Used
