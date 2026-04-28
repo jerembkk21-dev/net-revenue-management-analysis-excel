@@ -24,6 +24,7 @@ The goal was to evaluate revenue growth, product contribution, and forecast net 
 • Analyzed the impact of new products:
 
   a) Organic Shampoo
+  
   b) 50ml Shampoo
 
 ![Dashboard](images/profitability_matrix.png)
