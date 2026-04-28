@@ -1,13 +1,11 @@
 # net-revenue-management-excel-analysis
 Excel case study analyzing net revenue growth, product contribution, and forecast trends.
 
-# Net Revenue Management Analysis (Excel)
-
-## Project Overview
+## 1) Project Overview
 This project analyzes company revenue performance using Microsoft Excel. 
 The goal was to evaluate revenue growth, product contribution, and forecast net sales.
 
-## Tools Used
+## 2) Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
@@ -15,7 +13,7 @@ The goal was to evaluate revenue growth, product contribution, and forecast net 
 - Forecast analysis
 - Excel formulas
 
-## Key Analysis
+## 3) Key Analysis
 • Calculated Net Sales growth between 2022, 2023, and 2024  
 • Evaluated natural growth vs product-driven growth  
 • Analyzed the impact of new products:
@@ -32,18 +30,18 @@ The goal was to evaluate revenue growth, product contribution, and forecast net 
 
 ![Dashboard](images/estimated_net_sales_2024.png)
 
-## Key Skills Demonstrated
+## 4) Key Skills Demonstrated
 - Data cleaning
 - Revenue analysis
 - Forecast modeling
 - Dashboard creation
 - Business KPI analysis
 
-## Example Insights
+## 5) Example Insights
 - Natural growth contributed the majority of revenue growth.
 - Product launches generated additional incremental sales.
 
-## Files
+## 6) Files
 - 1_1_investigating_the_dataset - Starting file to begin project
 - net_revenue_management_analysis_complete – Excel analysis and dashboards.
 - estimated_net_sales_2024
@@ -51,8 +49,3 @@ The goal was to evaluate revenue growth, product contribution, and forecast net 
 - market_share
 - profitability_matrix
 - promotion_graph
-
-  
-
-## Author
-Jeremy C
