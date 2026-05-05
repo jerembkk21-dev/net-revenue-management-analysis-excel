@@ -1,4 +1,4 @@
-# net-revenue-management-excel-analysis
+# net-revenue-management-analysis-excel
 
 Excel case study analyzing net revenue growth, product contribution, and forecast trends.
 
