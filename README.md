@@ -21,11 +21,7 @@ The goal was to evaluate revenue growth, product contribution, and forecast net 
 
 • Calculated Net Sales growth between 2022, 2023, and 2024  
 • Evaluated natural growth vs product-driven growth  
-• Analyzed the impact of new products:
-
-  a) Organic Shampoo
-  
-  b) 50ml Shampoo
+• Analyzed the impact of new products such as Organic Shampoo and 50ml Shampoo
 
 ![Dashboard](images/profitability_matrix.png)
 
